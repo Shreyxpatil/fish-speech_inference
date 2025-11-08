@@ -1,0 +1,3 @@
+[submodule "Voice-cloning"]
+	path = Voice-cloning
+	url = https://github.com/Shreyxpatil/fish-speech_inference_without_cheakpoints.git
