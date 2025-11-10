@@ -55,8 +55,8 @@ fish-speech1.5-inference/
 
 1️⃣ Clone the repo  
 ```bash
-git clone https://github.com/yourname/fish-speech1.5-inference.git
-cd fish-speech1.5-inference
+git clone https://github.com/Shreyxpatil/fish-speech_inference.git
+cd fish-speech_inference
 ```
 
 2️⃣ Create & activate virtual environment  
